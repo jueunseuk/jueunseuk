@@ -29,7 +29,6 @@
 
 <br/>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=junsu0825)](https://solved.ac/junsu0825)
+<div align="center">[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=junsu0825)](https://solved.ac/junsu0825)</div>
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=junsu0825&theme=warm)

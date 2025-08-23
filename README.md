@@ -26,9 +26,9 @@
 <br />
 
 ### Communicate With :
-> <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
+> <a href="https://jundyu.tistory.com/" title="블로그 둘러보기"><img src="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white"/></a>
 > <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" title="junsu120202@gmail.com"/>
-> <img src="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white" href="https://jundyu.tistory.com/"/>
+> <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
 
 <br/>
 

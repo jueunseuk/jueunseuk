@@ -7,7 +7,7 @@
 > <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 > <img src="https://img.shields.io/badge/render-000000.svg?&style=for-the-badge&logo=render&logoColor=white" />
 
-<br />
+
 
 ### Sub Skill :
 > <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
@@ -15,7 +15,7 @@
 > <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" />
 > <img src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white" />
 
-<br />
+
 
 ### Tool :
 > <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
@@ -23,7 +23,7 @@
 > <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
 > <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
 
-<br />
+
 
 ### Communicate With :
 > <a href="https://jundyu.tistory.com/" title="블로그 둘러보기"><img src="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white"/></a>
@@ -35,5 +35,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=junsu0825)](https://solved.ac/junsu0825)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=junsu0825&theme=warm)
+![Junsu's Jandi](http://mazandi.herokuapp.com/api?handle=junsu0825&theme=warm)
 
+[![Junsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jueunseuk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

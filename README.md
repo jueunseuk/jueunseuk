@@ -33,8 +33,6 @@
 <br/>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=junsu0825)](https://solved.ac/junsu0825)
-
-![Junsu's Jandi](http://mazandi.herokuapp.com/api?handle=junsu0825&theme=warm)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=junsu0825)](https://solved.ac/junsu0825)![Junsu's Jandi](http://mazandi.herokuapp.com/api?handle=junsu0825&theme=warm)
 
 [![Junsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jueunseuk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

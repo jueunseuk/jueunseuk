@@ -1,6 +1,6 @@
-# <div align="center">Java Developer</div>
+# <div align="center">Java Backend Developer</div>
 
-### Main Skills :
+### Main :
 > <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=Java&logoColor=white" />
 > <img src="https://camo.githubusercontent.com/c5c6f5ba41163a05ef0c9aa47053749f7b2da2edaa4df9002af8345adcf8a9f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737072696e67626f6f742d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67626f6f74266c6f676f436f6c6f723d7768697465">
 > <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
@@ -9,7 +9,7 @@
 
 
 
-### Sub Skills :
+### Additional :
 > <img src="https://img.shields.io/badge/render-000000.svg?&style=for-the-badge&logo=render&logoColor=white" />
 > <img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 > <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" />
@@ -26,12 +26,17 @@
 
 
 
-### Communicate With :
+### Business :
 > <a href="https://jundyu.tistory.com/" title="블로그 둘러보기"><img src="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white"/></a>
 > <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" title="junsu120202@gmail.com"/>
 > <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
 
 <br/>
+
+---
+### Projects
+- 
+- 
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=junsu0825)](https://solved.ac/junsu0825)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Junsu's Jandi](http://mazandi.herokuapp.com/api?handle=junsu0825&theme=warm)

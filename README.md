@@ -37,7 +37,7 @@
 ### Projects
 - <a href="https://github.com/jueunseuk/MultipleWebService-Frontend-Fork/tree/main">Multiple</a>
 - <a href="https://github.com/team-petpick/petpick-backend">PetPick</a>
-- <a href="https://cyr-community.vercel.app/">CYR Community</a>is live now!
+- <a href="https://cyr-community.vercel.app/">CYR Community</a> is live now!
 
 <br/>
 

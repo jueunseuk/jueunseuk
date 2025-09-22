@@ -35,9 +35,9 @@
 
 ---
 ### Projects
-- <a href="https://jundyu.tistory.com/" title="블로그 둘러보기"><img src="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white"/></a>
-- <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" title="junsu120202@gmail.com"/>
-- <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
+- <a href="https://github.com/jueunseuk/MultipleWebService-Frontend-Fork/tree/main">Multiple</a>
+- <a href="https://github.com/team-petpick/petpick-backend">PetPick</a>
+- <a href="https://cyr-community.vercel.app/">CYR Community is live now!</a>
 
 <br/>
 

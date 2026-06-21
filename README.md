@@ -1,34 +1,29 @@
 # <div align="center">Java Backend Developer</div>
 
-### Main :
+### Language
 > <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=Java&logoColor=white" />
-> <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-> <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+> <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
 
+> <img src="https://img.shields.io/badge/shell script-FFD500.svg?&style=for-the-badge&logo=shell&logoColor=white" />
 
+### Framework & Development
+> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white" />
 
-### Additional :
-> <img src="https://img.shields.io/badge/render-000000.svg?&style=for-the-badge&logo=render&logoColor=white" />
-> <img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-> <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" />
-> <img src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white" />
-
-
-
-### Tools :
 > <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
 > <img src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" />
-> <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
-> <img src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white" />
-> <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
+> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20ide&logoColor=white" />
 
+### Database & Infrastructure
+> <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+> <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+> <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" />
 
+> <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+> <img src="https://img.shields.io/badge/render-000000.svg?&style=for-the-badge&logo=render&logoColor=white" />
 
-### Business :
-> <a href="https://jundyu.tistory.com/" title="블로그 둘러보기"><img src="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white"/></a>
+### Contact & Visit
 > <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" title="junsu120202@gmail.com"/>
-> <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
+> <a href="https://jundyu.tistory.com/" title="블로그 둘러보기"><img src="https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white"/></a>
 
 <br/>
 

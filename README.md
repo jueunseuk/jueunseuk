@@ -3,21 +3,17 @@
 ### Language
 > <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=Java&logoColor=white" />
 > <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
-
 > <img src="https://img.shields.io/badge/shell script-FFD500.svg?&style=for-the-badge&logo=shell&logoColor=white" />
 
 ### Framework & Development
 > <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white" />
-
 > <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
 > <img src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" />
-> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20ide&logoColor=white" />
 
 ### Database & Infrastructure
 > <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 > <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 > <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" />
-
 > <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
 > <img src="https://img.shields.io/badge/render-000000.svg?&style=for-the-badge&logo=render&logoColor=white" />
 

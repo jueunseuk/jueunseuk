@@ -3,7 +3,7 @@
 ### Language
 > <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=Java&logoColor=white" />
 > <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
-> <img src="https://img.shields.io/badge/shell script-FFD500.svg?&style=for-the-badge&logo=shell&logoColor=white" />
+> <img src="https://img.shields.io/badge/shell script-4EAA25.svg?&style=for-the-badge&logo=GNUBash&logoColor=white" />
 
 ### Framework & Development
 > <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white" />

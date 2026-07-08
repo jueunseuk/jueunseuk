@@ -31,3 +31,10 @@
 - <a href="https://cyr-community.vercel.app/">CYR Community - FE</a> | 가수 최유리의 팬 커뮤니티 (suspended)
 - <a href="https://github.com/jueunseuk/MingleDay-BE">MingleDay-BE</a> | 일정 공유 관리 서비스 서버 (deployed)
 - <a href="https://github.com/jueunseuk/MingleDay-Android">MingleDay-Android</a> | 일정 공유 관리 서비스 클라이언트 (available)
+
+<br/>
+
+---
+### Experiences
+- CVD/VDP 시범사업 참여
+- LG U+ URECA 1기 수료

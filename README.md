@@ -38,3 +38,12 @@
 ### Experiences
 - CVD/VDP 시범사업 참여
 - LG U+ URECA 1기 수료
+
+<br/>
+
+---
+### Certification
+- SQLD
+- 리눅스 마스터 2급
+<span style="color:transparent">- 네트워크 관리사 2급</span>
+<span style="color:transparent">- 정보처리기사</span>

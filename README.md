@@ -45,5 +45,3 @@
 ### Certification
 - SQLD
 - 리눅스 마스터 2급
-<span style="color:transparent">- 네트워크 관리사 2급</span>
-<span style="color:transparent">- 정보처리기사</span>

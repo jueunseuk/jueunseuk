@@ -27,8 +27,8 @@
 ### Projects
 - <a href="https://github.com/jueunseuk/MultipleWebService-Frontend-Fork/tree/main">Multiple</a> | 파티원 모집 플랫폼 (terminated)
 - <a href="https://github.com/team-petpick/petpick-backend">PetPick</a> | 반려동물용품 온라인 쇼핑몰 (terminated)
-- <a href="https://github.com/jueunseuk/CYRProject">CYR Community - BE</a> | 가수 최유리의 팬 커뮤니티 서버 (deployed)
-- <a href="https://cyr-community.vercel.app/">CYR Community - FE</a> | 가수 최유리의 팬 커뮤니티 (available)
+- <a href="https://github.com/jueunseuk/CYRProject">CYR Community - BE</a> | 가수 최유리의 팬 커뮤니티 서버 (improving)
+- <a href="https://cyr-community.vercel.app/">CYR Community - FE</a> | 가수 최유리의 팬 커뮤니티 (improving)
 - <a href="https://github.com/jueunseuk/MingleDay-BE">MingleDay-BE</a> | 일정 공유 관리 서비스 서버 (deployed)
 - <a href="https://github.com/jueunseuk/MingleDay-Android">MingleDay-Android</a> | 일정 공유 관리 서비스 클라이언트 (available)
 

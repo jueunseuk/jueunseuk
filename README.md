@@ -47,3 +47,4 @@
 ### Certification
 - SQLD
 - 리눅스 마스터 2급
+- TOPCIT Proficient

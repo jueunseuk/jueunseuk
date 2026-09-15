@@ -1,21 +1,32 @@
 # <div align="center">Java Backend Developer</div>
 
-### Language
+### Backend
 > <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=Java&logoColor=white" />
-> <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
-> <img src="https://img.shields.io/badge/shell-4EAA25.svg?&style=for-the-badge&logo=GNUBash&logoColor=white" />
-
-### Framework & Development
 > <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white" />
-> <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
-> <img src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" />
+> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=SpringSecurity&logoColor=white" />
 
-### Database & Infrastructure
+### Frontend
+> <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white" />
+> <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
+
+### Database
 > <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-> <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
-> <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" />
+> <img src="https://img.shields.io/badge/Redis-FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+
+### Infrastructure & DevOps
 > <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-> <img src="https://img.shields.io/badge/render-000000.svg?&style=for-the-badge&logo=render&logoColor=white" />
+> <img src="https://img.shields.io/badge/Rocky%20Linux-10B981.svg?&style=for-the-badge&logo=RockyLinux&logoColor=white" />
+> <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+> <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+> <img src="https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
+
+### Tools
+> <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
+> <img src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
+
+### Additional
+> <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
+> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?&style=for-the-badge&logo=GNUBash&logoColor=white" />
 
 ### Contact & Visit
 > <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" title="junsu120202@gmail.com"/>
@@ -33,13 +44,15 @@
 - <a href="https://github.com/jueunseuk/MingleDay-Android">MingleDay-Android</a> | 일정 공유 관리 서비스 앱 (available)
 - <a href="https://github.com/jueunseuk/Nemorithm">Nemorithm - BE</a> | 노노그램 풀이 서버 (In Development)
 - <a>Nemorithm</a> | 노노그램 풀이 클라이언트 (In Scheduled)
+- <a>LiKi</a> | 리눅스 학습 플랫폼 (In Scheduled)
+- <a>LiKi</a> | 리눅스 학습 플랫폼 서버 (In Scheduled)
 
 <br/>
 
 ---
 ### Experiences
-- CVD/VDP 시범사업
-- LG U+ URECA 1기
+- CVD/VDP 시범사업 참여
+- LG U+ URECA 1기 수료
 
 <br/>
 

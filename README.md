@@ -20,10 +20,6 @@
 > <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
 > <img src="https://img.shields.io/badge/nginx-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
 
-### Tools
-> <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
-> <img src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />
-
 ### Additional
 > <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
 > <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?&style=for-the-badge&logo=GNUBash&logoColor=white" />

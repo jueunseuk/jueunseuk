@@ -40,7 +40,7 @@
 - <a href="https://github.com/jueunseuk/MingleDay-BE">MingleDay-BE</a> | 일정 공유 관리 서비스 서버 $\color{#0F766E}(deployed)$
 - <a href="https://github.com/jueunseuk/MingleDay-Android">MingleDay-Android</a> | 일정 공유 관리 서비스 앱 $\color{#0F766E}(available)$
 - <a href="https://github.com/jueunseuk/Nemorithm">Nemorithm - BE</a> | 노노그램 풀이 서버 $\color{#E8B800}(In\ Development)$
-- <a>Nemorithm</a> | 노노그램 풀이 클라이언트 $(In Scheduled)$
+- <a>Nemorithm</a> | 노노그램 풀이 클라이언트 $(In\ Scheduled)$
 - <a>Linub</a> | 리눅스 학습 플랫폼 $\color{#E8B800}(In\ Development)$
 - <a href="https://github.com/Linub-project">Linub-project</a> | 리눅스 학습 플랫폼 프로젝트 $\color{#E8B800}(In\ Development)$
 

@@ -4,6 +4,7 @@
 > <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=Java&logoColor=white" />
 > <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white" />
 > <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=SpringSecurity&logoColor=white" />
+> <img src="https://img.shields.io/badge/Hibernate-59666C.svg?&style=for-the-badge&logo=Hibernate&logoColor=white" />
 
 ### Frontend
 > <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white" />

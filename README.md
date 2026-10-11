@@ -33,16 +33,16 @@
 
 ---
 ### Projects
-- <a href="https://github.com/jueunseuk/MultipleWebService-Frontend-Fork/tree/main">Multiple</a> | 파티원 모집 플랫폼 (terminated)
-- <a href="https://github.com/team-petpick/petpick-backend">PetPick</a> | 반려동물용품 온라인 쇼핑몰 (terminated)
-- <a href="https://github.com/jueunseuk/Yureeya-BE">Yureeya - BE</a> | 가수 최유리의 팬 커뮤니티 서버 (deployed)
-- <a href="https://cyr-community.vercel.app/">Yureeya</a> | 가수 최유리의 팬 커뮤니티 (available)
-- <a href="https://github.com/jueunseuk/MingleDay-BE">MingleDay-BE</a> | 일정 공유 관리 서비스 서버 (deployed)
-- <a href="https://github.com/jueunseuk/MingleDay-Android">MingleDay-Android</a> | 일정 공유 관리 서비스 앱 (available)
-- <a href="https://github.com/jueunseuk/Nemorithm">Nemorithm - BE</a> | 노노그램 풀이 서버 (In Development)
-- <a>Nemorithm</a> | 노노그램 풀이 클라이언트 (In Scheduled)
-- <a>Linub</a> | 리눅스 학습 플랫폼 (In Development)
-- <a href="https://github.com/Linub-project">Linub-project</a> | 리눅스 학습 플랫폼 프로젝트 (In Development)
+- <a href="https://github.com/jueunseuk/MultipleWebService-Frontend-Fork/tree/main">Multiple</a> | 파티원 모집 플랫폼 $\color{#C73D59}(terminated)$
+- <a href="https://github.com/team-petpick/petpick-backend">PetPick</a> | 반려동물용품 온라인 쇼핑몰 $\color{#C73D59}(terminated)$
+- <a href="https://github.com/jueunseuk/Yureeya-BE">Yureeya - BE</a> | 가수 최유리의 팬 커뮤니티 서버 $\color{#0F766E}(deployed)$
+- <a href="https://cyr-community.vercel.app/">Yureeya</a> | 가수 최유리의 팬 커뮤니티 $\color{#0F766E}(available)$
+- <a href="https://github.com/jueunseuk/MingleDay-BE">MingleDay-BE</a> | 일정 공유 관리 서비스 서버 $\color{#0F766E}(deployed)$
+- <a href="https://github.com/jueunseuk/MingleDay-Android">MingleDay-Android</a> | 일정 공유 관리 서비스 앱 $\color{#0F766E}(available)$
+- <a href="https://github.com/jueunseuk/Nemorithm">Nemorithm - BE</a> | 노노그램 풀이 서버 $\color{#E8B800}(In\ Development)$
+- <a>Nemorithm</a> | 노노그램 풀이 클라이언트 $(In Scheduled)$
+- <a>Linub</a> | 리눅스 학습 플랫폼 $\color{#E8B800}(In\ Development)$
+- <a href="https://github.com/Linub-project">Linub-project</a> | 리눅스 학습 플랫폼 프로젝트 $\color{#E8B800}(In\ Development)$
 
 <br/>
 

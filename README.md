@@ -54,6 +54,6 @@
 
 ---
 ### Certification
-- SQLD
-- 리눅스 마스터 2급
-- TOPCIT Proficient
+- 제56회 SQLD
+- 제2603회 리눅스 마스터 2급
+- 제25/26회 TOPCIT Proficient
